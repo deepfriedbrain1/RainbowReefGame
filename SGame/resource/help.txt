@@ -1,0 +1,45 @@
+*** SUPER RAINBOW REEF HELP ***
+
+*** USER INTERFACE ***
+
+Title Screen
+
+1. START: start a new game
+2. LOAD: load a game level of your choice
+3. HELP: Help Information File
+4. SCORES: Display Top Ten high score table
+5. QUIT: quit the game 
+
+*** GAME MOVEMENT & CONTROLS ***
+
+Controls:
+While you are on the opening screen:
+Use the left mouse button to click on any of the options buttons listed under Title Screen.
+
+While playing the game:
+<ESC> 	brings up title screen, ensure you don't have an active POP or you may lose a life!
+<Left> 	moves Katch to the left
+<Right> moves Katch to the right
+<SPACEBAR> fire POP one at the time   
+
+*** GAME FEATURES ***
+
+the game will start with a small speed for every  3 times pop bounce from katch the speed will increment. 
+
+Enemies:
+- 3 Large stationary Biglegs per level
+- Kill all 3 to progress to the next level.
+
+Blocks:
+- Multicolored blocks to be destroyed for points
+- Some blocks cannot be destroyed, such as walls.
+- Star blocks reduce speed greatly 
+- Blocks that give the player an extra life have a heart
+
+Score and Points:
+The player can obtain points added to their total score by destroying certain blocks and enemies.
+- 50 pts. per Bigleg
+- 25 pts. per Star block
+- 15 pts. per Heart block
+- 10 pts. per multi-colored blocks
+-  0 pts. per brown block (solid wall blocks)
